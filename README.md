@@ -6,9 +6,8 @@
   - [Port Scanner](https://github.com/Elliott-Payne/Port-Scanner)
 
 <h2>Certifications</h2>
+
   - [Microsoft Azure Fundamentals](https://www.credly.com/badges/5ae04f30-df91-49e7-90e9-ddff8e2860c8/public_url)
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
