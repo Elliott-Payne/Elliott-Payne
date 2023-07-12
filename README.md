@@ -8,6 +8,7 @@
 <h2>Certifications</h2>
 
   - [Microsoft Azure Fundamentals](https://www.credly.com/badges/5ae04f30-df91-49e7-90e9-ddff8e2860c8/public_url)
+  - Currently studying for Comptia Network + (expected by 12/2023)
 
 Here are some ideas to get you started:
 
