@@ -4,6 +4,9 @@
 
 - <b>Python</b>
   - [Port Scanner](https://github.com/Elliott-Payne/Port-Scanner)
+ 
+- <b>Hack The Box</b>
+  - [Exploiting Telnet](https://github.com/Elliott-Payne/Hack-The-Box/blob/main/README.md)
 
 <h2>Certifications</h2>
 
