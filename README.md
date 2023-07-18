@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elliott! 
+<h1>Hi, I'm Elliott Payne! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
