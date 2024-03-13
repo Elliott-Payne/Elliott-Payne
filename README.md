@@ -1,6 +1,6 @@
 <h1>Hi, I'm Elliott Payne! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>PowerShell</b>
   - coming soon
