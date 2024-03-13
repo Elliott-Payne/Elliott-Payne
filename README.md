@@ -11,4 +11,5 @@
 <h2>Certifications</h2>
 
   - [Microsoft Azure Fundamentals](https://www.credly.com/badges/5ae04f30-df91-49e7-90e9-ddff8e2860c8/public_url)
+  - [ITIL v4](https://ibb.co/VgVSx7z)
   - Currently studying for Comptia Security + (expected by 4/2024)
